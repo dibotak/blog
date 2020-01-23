@@ -1,5 +1,5 @@
 ---
-label: About
+label: post
 hide_body: false
 fields:
 - type: text
@@ -8,5 +8,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- content/about.md
