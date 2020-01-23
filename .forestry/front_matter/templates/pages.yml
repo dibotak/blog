@@ -23,3 +23,5 @@ fields:
     required: false
   label: type
   description: content type
+pages:
+- content/about.md
