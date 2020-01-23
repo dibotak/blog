@@ -1,0 +1,9 @@
+[build]
+	base = "project/"
+	publish = "project/public"
+	command = "hugo --gc --themesDir ../.."
+
+[build.environment]
+	HUGO_VERSION = "0.62.2"
+  	HUGO_THEME = "repo"
+	HUGO_BASEURL = "/"
