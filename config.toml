@@ -1,88 +1,83 @@
-baseURL = "https://adibfaqih.id/"
+baseurl = "adibfaqih.id"
 languageCode = "en-us"
-title = "DiBotak"
-theme = "ezhil"
-
-copyright = "© Copyright notice"
-
-# Enable syntax highlighting.
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-# Your Google analytics code.
-googleAnalytics = "UA-123-45"
-# Your Disqus sortname.
-disqusShortname = ""
-
-# Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 10
+Title = "DiBotak"
+theme = "hugo_theme_pickles"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright notice"
+custom_css = "/static/css/custom.css"
 
 [params]
-    # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Catatan Petualangan."
-
-    # Content types which are included in home page recent posts list.
-    mainSections = ["posts"]
-
-    # Content types which are excludes Disqus comments.
-    disableDisqusTypes = ["page"]
-
-    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
-    featherIconsCDN = true
-
-    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "icons/myicon.png"
-
-    # Switch to dark mode or auto detect mode from OS (Optional).
-    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
-    mode = "dark" # "dark" or "auto"
-
-    # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
-    # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
-    # you can specify custom css path as `css/custom.css`.
-    customCSS = "css/custom.css"
-    # Custom CSS added to dark mode style.
-    customDarkCSS = "css/custom-dark.css"
-
-    # Custom list of Javascript files to load. Just like custom CSS you can place js files under
-    # `static/js` folder and specify path here as `js/script-name.js`. You can also specify full url,
-    # for example you may want to include external JS library.
-    customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
-
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+  paginate = 10
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = ""
+  facebook = ""
+  instagram = ""
+  googleplus = "" # https://plus.google.com/u/0/xxxxxx
+  github = ""
+  gitlab = ""
+  npm = ""
+  codepen = ""
+  dribbble = ""
+  fivehundredpx = "" # 500px
+  flickr = ""
+  pinterest = ""
+  tumblr = ""
+  vimeo = ""
+  youtube = ""
+  linkedin = ""
+  medium = ""
+  # Disqus shortname
+  disqus = ""
+  # Google Analytics API key.
+  ga_api_key = "Your Google Analytics tracking id"
+  author = "Muhammad Adib Faqih"
+  authorwebsite = "example.com"
+  avatar = "/path/to/avatar"
+  contact = "Your contact link (ex. mailto:foo@example.com)"
+  bio = "Aku seorang pelajar"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Catatan Petualangan"
+  # Logo image. This is displayed ogp image.
+  logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+    name = "Blog"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+    name = "About"
+    url = "/about"
+    weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+    name = "Tags"
+    url = "/tags"
+    weight = 3
 
-# Social media links which shows up on site header.
-# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/dibotak"
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/gohugoio"
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
 
-# Enable tags.
-[taxonomies]
-   tag = "tags"
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
