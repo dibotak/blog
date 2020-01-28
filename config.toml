@@ -33,7 +33,7 @@ custom_css = "/static/css/custom.css"
   ga_api_key = "Your Google Analytics tracking id"
   author = "Muhammad Adib Faqih"
   authorwebsite = "example.com"
-  avatar = "../static/icons/myicon.png"
+  avatar = "https://adibfaqih.id/static/icons/myicon.png"
   contact = "Your contact link (ex. mailto:foo@example.com)"
   bio = "Aku seorang pelajar"
   # Short subtitle/tagline. This is displayed in the header.
