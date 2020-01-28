@@ -1,5 +1,5 @@
 +++
-date = 2019-09-11T16:29:00Z
+date = 2019-09-10T16:29:00Z
 title = "Saya baru bisa berkomentar"
 
 +++
