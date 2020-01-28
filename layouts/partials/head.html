@@ -39,7 +39,7 @@
   <!-- Hugo Version Number -->
   {{ hugo.Generator -}}
 
-  <link rel="stylesheet" href="{{ BaseURL }}css/style.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
   <!-- Custom css files as define in config.toml -->
   {{ range ($.Param "custom_css") -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
