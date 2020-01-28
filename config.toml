@@ -33,14 +33,14 @@ custom_css = "/static/css/custom.css"
   ga_api_key = "Your Google Analytics tracking id"
   author = "Muhammad Adib Faqih"
   authorwebsite = "example.com"
-  avatar = "/path/to/avatar"
+  avatar = "../static/icons/myicon.png"
   contact = "Your contact link (ex. mailto:foo@example.com)"
   bio = "Aku seorang pelajar"
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Catatan Petualangan"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  favicon = "../static/icons/myicon.png"
 
 [[menu.main]]
     name = "Blog"
