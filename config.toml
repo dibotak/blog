@@ -7,7 +7,7 @@ copyright = "&copy; Copyright notice"
 custom_css = "/static/css/custom.css"
 
 [params]
-  paginate = 10
+  paginate = 6
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   twitter = ""
