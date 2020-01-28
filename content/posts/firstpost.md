@@ -1,10 +1,12 @@
 ---
-title: "Firstpost"
-date: 2020-01-23T13:22:27+07:00
-draft: false
+title: Firstpost
+date: 2020-01-23T06:22:27.000+00:00
+
 ---
+Post pertama, setelah pindah dan mempelajari hugo. Juga di tahun 2020 ini.
 
-Namanya juga belajar, jadi untuk awalnya ya gini aja dulu.
-Nanti nanti baru migrasi dari blogger.
+Kenapa sih loncat loncatan mulu? Awalnya wordpress, terus menyinggung ke static site generator, milih pindah ke blogger biar gratis, lalu sekarang pindah lagi ke hugo.
 
-Tetap semangat coy!
+Kalo bukan karena kemauan yang kuat, mungkin sekarang gua masih menggunakan jasa blogger. Mungkin gua udah keburu nyerah belajar hugo ini.
+
+Belajar terus!
