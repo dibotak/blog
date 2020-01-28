@@ -1,4 +1,4 @@
-baseurl = "adibfaqih.id"
+baseurl = ""
 languageCode = "en-us"
 Title = "DiBotak"
 theme = "hugo_theme_pickles"
