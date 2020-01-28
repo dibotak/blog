@@ -1,6 +1,5 @@
 +++
 date = 2019-08-31T16:59:00Z
-draft = true
 title = "Keburu Waktu"
 
 +++
