@@ -23,5 +23,14 @@ fields:
     required: false
   label: type
   description: content type
+- name: text-area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text-area
 pages:
 - content/about.md
