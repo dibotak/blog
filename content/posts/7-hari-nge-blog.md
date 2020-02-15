@@ -3,8 +3,7 @@ date = 2019-08-24T17:00:00Z
 title = "7 Hari Nge-Blog?"
 
 +++
-
-Jadi, apa sekarang? mau nunggu apa lagi?
+Jadi, apa sekarang? mau nunggu apa lagi?<!--more-->
 
 Gua menantang diri gua sendiri untuk nge-blog selama 7 hari berturut-turut, dimulai dari sekarang. Mumpung belom ganti hari. Nggak ada alasan yang pasti kenapa gua mau ngelakuin ini, soalnya gua cuma pengen ngebangun habit (kebiasaan) yang menurut gua harus gua biasain.
 
