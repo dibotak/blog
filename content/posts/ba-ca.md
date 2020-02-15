@@ -3,7 +3,7 @@ date = 2019-08-20T16:53:00Z
 title = "Ba-ca"
 
 +++
-Gua harap ini yang terakhir.
+Gua harap ini yang terakhir.<!--more-->
 
 Berkali-kali gua ngebuat blog, dari pertama kali gua kenal sama blog. Ketika itu gua masih bocah, yang mana tujuan gua pada saat itu hanya uang. Waktu itu gua belom tau apa itu konten, yang gua tau paling cuma sebatas tema-tema, dan masang iklan di blog.
 
