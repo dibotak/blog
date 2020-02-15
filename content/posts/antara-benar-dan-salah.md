@@ -3,7 +3,7 @@ date = 2019-09-26T15:51:00Z
 title = "Antara Benar dan Salah"
 
 +++
-Kurang ajar banget dah, giliran banyak ide gak ditulis idenya terus lupa. Kalo lagi seret ide baru mau nulis, ini yang salah siapa sih? apaan sih? Terlalu banyak makan nasi sehingga bikin otak cepat bosan wkwkwk.
+Kurang ajar banget dah, giliran banyak ide gak ditulis idenya terus lupa. Kalo lagi seret ide baru mau nulis, ini yang salah siapa sih?<!--more--> apaan sih? Terlalu banyak makan nasi sehingga bikin otak cepat bosan wkwkwk.
 
 Ngomongin soal benar atau salah, ya ide ini muncul karena gua pernah nyatet sesuatu di buku gua, dan itu yang mengingatkan gua sehingga tulisan ini bisa dibuat. Apa itu?
 
