@@ -3,7 +3,7 @@ date = 2019-09-09T16:15:00Z
 title = "Belajar Investasi"
 
 +++
-Sepertinya, penggunaan kata "Aku" hanya pada beberapa momen tertentu aja, sesuai momen. Seperti biasa Gua gak punya ide yang pasti bakal ngomongin apa hari ini, paling ngomongin kebiasaan tidur bablas wkwk.
+Sepertinya, penggunaan kata "Aku" hanya pada beberapa momen tertentu aja, sesuai momen. Seperti biasa Gua gak punya ide yang<!--more--> pasti bakal ngomongin apa hari ini, paling ngomongin kebiasaan tidur bablas wkwk.
 
 Kemudian ide itu muncul sebelum gua mulai nulis artikel ini. Pas Gua liat web gua kok gak ada logonya di sampingnya (favicon), sesuatu yang bagus untuk dibahas. Pertama kali Gua buat blog, Gua pake blogger (blogspot), dan disitu gua pertama kali tau favicon. Gua ini orangnya termasuk yang seneng atau mungkin lebih fokus ke peralatan _(tools)_ untuk membuat suatu hal.
 
