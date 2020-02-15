@@ -1,5 +1,5 @@
 ---
-label: post
+label: Post
 hide_body: false
 fields:
 - type: text
@@ -13,6 +13,7 @@ pages:
 - content/posts/antara-benar-dan-salah.md
 - content/posts/apel-dan-pir.md
 - content/posts/ba-ca.md
+- content/posts/balapan-sebagai-hiburan.md
 - content/posts/belajar-investasi.md
 - content/posts/belajar-lagi-phpmvc.md
 - content/posts/berangkat.md
@@ -20,6 +21,7 @@ pages:
 - content/posts/berusaha-realistis.md
 - content/posts/coba-lagi.md
 - content/posts/dengarkan-baik-baik.md
+- content/posts/dua-hal.md
 - content/posts/gagal-move-on.md
 - content/posts/gimana-kalo-gak-ada-ide.md
 - content/posts/hilang-sebuah-cerpen.md
