@@ -3,7 +3,7 @@ date = 2020-02-12T16:40:00Z
 title = "Balapan Sebagai Hiburan"
 
 +++
-Jujur aja, sebenernya tadi aku gak ada ide buat nulis apa. Terus pas liat tab subscription di youtube, langsung tau mau bahas tentang apa. 
+Jujur aja, sebenernya tadi aku gak ada ide buat nulis apa. Terus pas liat tab subscription di youtube, langsung tau mau bahas tentang apa.<!--more-->
 
 Balapan, merupakan salah satu genre yang aku suka dalam bermain game. Berawal dari main PS2, ada game MotoGP dan F1. Entah ketika main game balapan itu seru, tapi kalo yang namanya main ya harusnya buat seru-seruan sih.
 
