@@ -1,83 +1,53 @@
-baseurl = "https://adibfaqih.id/"
-languageCode = "en-us"
-Title = "DiBotak"
-theme = "hugo_theme_pickles"
-# Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
-custom_css = "/static/css/custom.css"
+baseURL = "https://adibfaqih.id"
+title = "DiBotak"
+theme = "hugo-notepadium"
+copyright = "©2020"
+
+pagination = 2
+
+languageCode = "en"
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = "XXX"
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
 
 [params]
-  paginate = 6
-  # Social accounts. Link to these accounts are displayed in the header and
-  # footer
-  twitter = ""
-  facebook = ""
-  instagram = ""
-  googleplus = "" # https://plus.google.com/u/0/xxxxxx
-  github = ""
-  gitlab = ""
-  npm = ""
-  codepen = ""
-  dribbble = ""
-  fivehundredpx = "" # 500px
-  flickr = ""
-  pinterest = ""
-  tumblr = ""
-  vimeo = ""
-  youtube = ""
-  linkedin = ""
-  medium = ""
-  # Disqus shortname
-  disqus = ""
-  # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
-  author = "Muhammad Adib Faqih"
-  authorwebsite = "example.com"
-  avatar = "https://adibfaqih.id/static/icons/myicon.png"
-  contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Aku seorang pelajar"
-  # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Catatan Petualangan"
-  # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
-  favicon = "../static/icons/myicon.png"
+style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
+dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
+logo = "https://adibfaqih.id/static/icons/myicon.png"  # if you have a logo png
+slogan = "Catatan Petualangan"
+license = ""  # CC License
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
+[params.comments]
+enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
 
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
+[params.math]
+enable = false  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
+use = "katex"  # option: "katex", "mathjax". default: "katex"
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 3
+[params.syntax]
+use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
+theme = "dracula"
+darkTheme = "xcode-dark"  # apply this theme in dark mode
 
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 80
+[params.nav]
+showCategories = true       # /categories/
+showTags = false             # /tags/
 
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = false
+# custom navigation items
 
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = false
-
-  [[related.indices]]
-  name = "keywords"
-  weight = 150
-  [[related.indices]]
-  name  = "author"
-  toLower = true
-  weight = 30
-  [[related.indices]]
-  name  = "tags"
-  weight = 100
-  [[related.indices]]
-  name  = "date"
-  weight = 10
-  pattern = "2017"
+[[params.nav.custom]]
+title = "About"
+url = "/about"
