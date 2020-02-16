@@ -3,7 +3,7 @@ date = 2019-09-13T08:17:00Z
 title = "Gimana Kalo Gak Ada Ide?"
 
 +++
-Baca tulisan ini, ingat tujuan, lihat apa yang sudah kau lakukan. Iya, Kau akan melihat bagaimana hancurnya tulisanmu itu. Ya, mungkin kau menginginkan tulisan tersebut dihapuskan saja. Terlihat tidak ada "isi"nya sama sekali. Tapi.
+Baca tulisan ini, ingat tujuan, lihat apa yang sudah kau lakukan. Iya, Kau akan melihat bagaimana hancurnya tulisanmu itu.<!--more--> Ya, mungkin kau menginginkan tulisan tersebut dihapuskan saja. Terlihat tidak ada "isi"nya sama sekali. Tapi.
 
 Coba Kau perhatikan kembali, saat itu apa yang sedang Kau pikirkan?, saat itu apa yang Kau inginkan? Cobalah ingat-ingat lagi, siapa tahu Kau mendapatkan apa yang sebenarnya tidak Kau cari, akan tetapi kau butuh itu. Lihat kembali dan selami, bagaimana kebodohan demi kebodohan Kau perbuat, apakah bisa Kau perbaiki? Ternyata tidak bisa Kau ganti.
 
