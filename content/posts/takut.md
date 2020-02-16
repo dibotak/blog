@@ -3,7 +3,7 @@ date = 2019-09-08T16:08:00Z
 title = "Takut"
 
 +++
-Bagaimana bisa Aku mewujudkan mimpiku.
+Bagaimana bisa Aku mewujudkan mimpiku.<!--more-->
 
 Sabar, seperti biasa, tidak ada yang instan. Yang bisa dilihat dari orang sukses yang terlihat sekarang, adalah kesuksesannya. Aku belum tahu bagaimana rasa sakit yang harus diterima sampai mereka berada pada titik itu pada saat ini, yang kulihat hanyalah luarnya saja, nikmatnya saja.
 
