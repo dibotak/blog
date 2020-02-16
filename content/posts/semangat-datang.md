@@ -3,7 +3,7 @@ date = 2019-12-01T15:15:00Z
 title = "Semangat Datang"
 
 +++
-Gua mau berbagi, tentang _progress_ belajar pemrograman gua. Ini pertama kalinya gua berbagi tentang apa yang udah gua pelajarin, semoga terus berkembang dan nantinya akan menjadi bagian kecil penyelesaian masalah di bumi ini. Gua berbagi apa yang bisa gua bagi, bukan berarti gua udah jago banget dalam membuat program. Dengan menulisnya di blog gua berharap bisa melekatkan lagi ilmu yang udah gua dapet.
+Gua mau berbagi, tentang _progress_ belajar pemrograman gua. Ini pertama kalinya gua berbagi tentang apa yang udah gua pelajarin, <!--more-->semoga terus berkembang dan nantinya akan menjadi bagian kecil penyelesaian masalah di bumi ini. Gua berbagi apa yang bisa gua bagi, bukan berarti gua udah jago banget dalam membuat program. Dengan menulisnya di blog gua berharap bisa melekatkan lagi ilmu yang udah gua dapet.
 
 Semua ini berawal dari rasa penasaran akan kemandirian. Mandiri dalam semua aspek yang ada di komputer, yang awalnya mencari cara bagaimana caranya membuat game. Gua ketemu sama pemrograman disana, sampai gua mikir lagi gimana caranya membuat browser sendiri, karena pada saat itu setiap pake google chrome pasti lemot. Sempet nyari tau juga gimana caranya bikin _operating system_ sendiri.
 
