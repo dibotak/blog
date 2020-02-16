@@ -3,7 +3,7 @@ title: Firstpost
 date: 2020-01-23T06:22:27.000+00:00
 
 ---
-Post pertama, setelah pindah dan mempelajari hugo. Juga di tahun 2020 ini.
+Post pertama, setelah pindah dan mempelajari hugo. Juga di tahun 2020 ini.<!--more-->
 
 Kenapa sih loncat loncatan mulu? Awalnya wordpress, terus menyinggung ke static site generator, milih pindah ke blogger biar gratis, lalu sekarang pindah lagi ke hugo.
 
