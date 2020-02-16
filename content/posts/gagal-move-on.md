@@ -3,7 +3,7 @@ date = 2019-12-30T13:47:00Z
 title = "Gagal Move ON"
 
 +++
-Bukan tentang cinta-cintaan, pacaran, atau apapun yang ada sangkut pautnya sama hal-hal itu.
+Bukan tentang cinta-cintaan, pacaran, atau apapun yang ada sangkut pautnya sama hal-hal itu.<!--more-->
 
 Gua gagal move on. Iya, gagal move on dari kebiasaan gua menghabiskan waktu. Jadi kayak flashback ke masa SMA lagi.
 
