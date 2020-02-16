@@ -3,7 +3,7 @@ date = 2019-08-24T08:32:00Z
 title = "Siapa 'Sudut Pandang Pertama'?"
 
 +++
-Pernah terpikirkan oleh gua, pasti ada alasan mengapa gua terlahir di negara ini, Indonesia. Juga dengan lingkungan gua yang ngebuat gua sebagai gua yang sekarang.
+Pernah terpikirkan oleh gua, pasti ada alasan mengapa gua terlahir di negara ini, Indonesia. Juga dengan lingkungan gua yang ngebuat gua <!--more-->sebagai gua yang sekarang.
 
 Pernah juga gua berpikir kalo kayaknya gua gak ada manfaatnya sama sekali, kalo ngerjain apa apa pasti nggak pernah maksimal. Semua itu kembali lagi ke diri gua, gimana gua bisa ngendaliin diri gua sendiri.
 
