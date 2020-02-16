@@ -3,7 +3,7 @@ date = 2019-09-01T15:05:00Z
 title = "Jan? ji apatuh"
 
 +++
-Janji, sebuah judul film. Jumanji maksudnya wkwkwk, garing. Udah kayak batagor (nggak pake kuah), hehe. Apaan dah.
+Janji, sebuah judul film. Jumanji maksudnya wkwkwk, garing. Udah kayak batagor (nggak pake kuah), hehe. Apaan dah.<!--more-->
 
 Janji terdiri dari 5 huruf dan dua suku kata.Seberapa sering sih kita nepatin janji? entah itu ke temen, orang tua, guru, adek, kaka, atau ke diri sendiri? kalo gua yang jawab, mungkin jarang. Ya, gua jarang nepatin janji bahkan ke diri gua sendiri, juga tanpa alasan yang jelas.
 
