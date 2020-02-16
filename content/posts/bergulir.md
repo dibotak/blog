@@ -3,7 +3,7 @@ date = 2019-10-31T15:19:00Z
 title = "Bergulir"
 
 +++
-Waktu ke waktu, waktu terus bergerak. Udah jadi ketetapan dari sejak diciptakan, waktu terus bergerak. Membahas waktu lagi, waktu terus bergerak.
+Waktu ke waktu, waktu terus bergerak. Udah jadi ketetapan dari sejak diciptakan, waktu terus bergerak. Membahas waktu lagi, waktu terus bergerak.<!--more-->
 
 Detik, menit, jam, hari, pekan, bulan, tahun. Kita semua punya kenangan, entah itu baik ataupun yang kita anggap buruk. Gua terkadang suka mengingat kembali kenangan-kenangan itu, mengingat sudah hari keberapa sejak sesuatu itu terjadi, kemudian hari berganti menjadi pekan, pekan berganti menjadi bulan, dan seterusnya.
 
