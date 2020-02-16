@@ -3,7 +3,7 @@ date = 2019-11-13T15:39:00Z
 title = "Sudah Pertengahan Bulan"
 
 +++
-Udah mau pertengahan bulan aja nih, itu pertanda bahwa gua harus bayar sewa hosting wkwkwk. Gak masalah sih sebenernya, cuman gimana ya, jadi ada masalah dah pake dibahas segala.
+Udah mau pertengahan bulan aja nih, itu pertanda bahwa gua harus bayar sewa hosting wkwkwk. Gak masalah sih sebenernya, cuman <!--more-->gimana ya, jadi ada masalah dah pake dibahas segala.
 
 Ada yang gratis, tapi gua milih yang bayar. Atas dasar supaya gak males buat ngeblog lagi, tapi belum terbukti hingga saat ini. Udah gitu gua malah gak manfaatin dengan baik lagi, cuman make hosting buat blog doang padahal ada email. Kalo begini ceritanya kan mending ngeblog doang di wordpress.com atau blogger.com.
 
