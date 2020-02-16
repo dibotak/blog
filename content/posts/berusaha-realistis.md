@@ -3,7 +3,7 @@ date = 2019-11-29T15:56:00Z
 title = "Berusaha Realistis"
 
 +++
-Baru dua hari ini, gua lagi dapet momen semangat buat belajar. Baru dua hari udah terganggu sampe agak jauh, tadinya belajar pemrograman, jadinya main dan belajar buat game. Berusaha keras untuk realistis. Buat game bukan cuma coding doang, ada ngebuat scene, sprite, sound, script dll. Sedangkan diri gua sendiri ngerasa terombang ambing dengan apa yang gua pilih.
+Baru dua hari ini, gua lagi dapet momen semangat buat belajar. Baru dua hari udah terganggu sampe agak jauh, tadinya belajar pemrograman, <!--more-->jadinya main dan belajar buat game. Berusaha keras untuk realistis. Buat game bukan cuma coding doang, ada ngebuat scene, sprite, sound, script dll. Sedangkan diri gua sendiri ngerasa terombang ambing dengan apa yang gua pilih.
 
 Bukan itu aja, jadi game developer butuh waktu yang gak sebentar. Melihat kondisi apa yang gua punya juga, gua jadi enggan untuk sampe kesana. Laptop yang gua pake sekarang belom kuat, apalagi udah terlihat cacat fisik pada layar. Pengen gitu bisa fokus sebulan aja, nyoba fokus. Siapa tau bisa ketagihan buat _stay on the track._
 
