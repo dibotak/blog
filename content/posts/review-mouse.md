@@ -3,7 +3,7 @@ date = 2019-09-17T15:51:00Z
 title = "Review Mouse"
 
 +++
-Ditulisan ini gua mau nge-review mouse yang udah gua pake lebih dari setahun. Gua lupa nama merknya apa, yang jelas gak seterkenal logitech, razer, atau apapun yang terkenal lainnya. Merk tiongkok yang keliatan kayak mouse gaming, mantap lah pokoknya, murah juga harganya.
+Ditulisan ini gua mau nge-review mouse yang udah gua pake lebih dari setahun. Gua lupa nama merknya apa, yang jelas gak seterkenal <!--more-->logitech, razer, atau apapun yang terkenal lainnya. Merk tiongkok yang keliatan kayak mouse gaming, mantap lah pokoknya, murah juga harganya.
 
 Pas diliat digambar gua kira ukurannya bakal mirip sama mouse 20 ribuan, yang biasanya ditemuin di warnet jaman dulu. Ternyata ukurannya beneran kayak mouse gaming gitu. Oke langsung aja ke pembahasan tentang mouse ini.
 
