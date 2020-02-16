@@ -3,7 +3,7 @@ date = 2019-09-03T17:13:00Z
 title = "Hilang (Sebuah Cerpen)"
 
 +++
-Kan, itulah panggilannya. Hari ini Ia terlihat tidak bersemangat. Namun sepertinya itu merupakan hal yang biasa. Terakhir kali Kan bersemangat, masih terlihat Kan yang seperti tidak semangat.
+Kan, itulah panggilannya. Hari ini Ia terlihat tidak bersemangat. Namun sepertinya itu merupakan hal yang biasa.<!--more--> Terakhir kali Kan bersemangat, masih terlihat Kan yang seperti tidak semangat.
 
 Badannya selalu dilemaskan bahkan untuk berdiri tegak saja seringkali terlihat dari wajahnya , ekspresi malas. Jam istirahat pertama berbunyi, Ia memasukkan buku pelajarannya ke dalam tas yang sudah lama sekali tidak pernah tergantikan.
 
