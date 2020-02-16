@@ -8,6 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - content/posts/7-hari-nge-blog.md
 - content/posts/antara-benar-dan-salah.md
