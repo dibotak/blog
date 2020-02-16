@@ -3,7 +3,7 @@ date = 2019-09-02T08:18:00Z
 title = "Dengarkan baik baik"
 
 +++
-Jaman sekarang informasi itu gampang banget diakses, tinggal pilih mau informasi apa yang kita inginkan untuk tau. Dan informasi itu terdiri dari beragam bentuk, yang paling populer untuk saat ini ya [YouTube](http://www.youtube.com/). Dengan bentuk video kita gak perlu cape-cape buat baca, cukup ditonton dan simak maka informasi itu akan sampai di otak kita.
+Jaman sekarang informasi itu gampang banget diakses, tinggal pilih mau informasi apa yang kita inginkan untuk tau. Dan informasi itu <!--more-->terdiri dari beragam bentuk, yang paling populer untuk saat ini ya [YouTube](http://www.youtube.com/). Dengan bentuk video kita gak perlu cape-cape buat baca, cukup ditonton dan simak maka informasi itu akan sampai di otak kita.
 
 Kalo suka melihat gambar, ada instagram. Kalo suka baca, banyak blog. Kalo suka dengar, ada podcast. Tinggal dipilih mau pake platform apa, gak perlu pusing masalah biaya, karena dengan internet semu bisa diakses, dan menurut gua itu murah.
 
