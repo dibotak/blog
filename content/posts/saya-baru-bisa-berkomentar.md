@@ -3,7 +3,7 @@ date = 2019-09-10T16:29:00Z
 title = "Saya baru bisa berkomentar"
 
 +++
-Pemerintah meupakan tempat untuk disalahkan, btw gua nulis ini gapake riset jadinya semau gua aja. Oke, pembahasan kali ini agak menarik karena ini komentar gua kepada pemerintah negeri ini. Komentar dari si kurang ilmu yang sok tahu wkwk.
+Pemerintah meupakan tempat untuk disalahkan, btw gua nulis ini gapake riset jadinya semau gua aja. Oke, pembahasan kali ini agak <!--more-->menarik karena ini komentar gua kepada pemerintah negeri ini. Komentar dari si kurang ilmu yang sok tahu wkwk.
 
 Gua gak tahu cara mudahnya gimana, tapi yang gua liat di TV terutama, para politikus lebih senang keras kerasan suara, tidak mau disalahkan. Tameng mereka sangat kuat, hanya bermodalkan mulut yang pandai berputar putar, dan mungkin pikiran yang tidak selalu memikirkan rakyat. Itulah kenyataan yang gua liat.
 
