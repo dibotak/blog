@@ -3,7 +3,7 @@ date = 2019-09-07T17:13:00Z
 title = "Sedikit Semoga Bermakna"
 
 +++
-Biarkan jari jemari menari, padahal yang ngatur kan otak wkwkwk. Kadang suka bingung apa yang mau ditulis hari ini, tapi kalo mau jadi penulis kan harus banyakin nulis setiap hari. Gimana ceritanya harus nulis apa yang sebenernya gatau apa yang mau ditulis, tuh kan ribet. Katanya biarkan jari jari ini yang akan menulis, nyatanya otak juga harus ngasih tau jari harus nulis apa.
+Biarkan jari jemari menari, padahal yang ngatur kan otak wkwkwk. Kadang suka bingung apa yang mau ditulis hari ini, tapi kalo mau jadi <!--more-->penulis kan harus banyakin nulis setiap hari. Gimana ceritanya harus nulis apa yang sebenernya gatau apa yang mau ditulis, tuh kan ribet. Katanya biarkan jari jari ini yang akan menulis, nyatanya otak juga harus ngasih tau jari harus nulis apa.
 
 Dikira gampang melihat sesuatu yang dilakukan orang lain, nyatanya gak segampang itu. Tapi bagaimanapun, Gua harus tetap menulis. Terus belajar gimana caranya nulis dengan baik dengan cara banyak baca. Nanti sajalah nulisnya, nanti sajalah, belum baca. Nanti sajalah bikin podcastnya, nanti saja, belum dengar.
 
