@@ -3,7 +3,7 @@ date = 2020-01-30T14:44:00Z
 title = "Dua Hal"
 
 +++
-Dua hal yang mungkin gak akan terpisahkan dalam proses mencari ilmu, menambah pengetahuan. Tak lupa juga dengan dua hal tersebut bisa menghasilkan kebaikan. Dengan majunya teknologi seperti sekarang, yang dibutuhkan adalah kepandaian dalam memilih dan memilah informasi. Yang kebanyakan menggunakan cara ini, mendengar dan membaca.
+Dua hal yang mungkin gak akan terpisahkan dalam proses mencari ilmu, menambah pengetahuan. Tak lupa juga dengan dua hal <!--more-->tersebut bisa menghasilkan kebaikan. Dengan majunya teknologi seperti sekarang, yang dibutuhkan adalah kepandaian dalam memilih dan memilah informasi. Yang kebanyakan menggunakan cara ini, mendengar dan membaca.
 
 Mendengar dan membaca merupakan sebuah proses input, seperti menelan air, atau memakan makanan. Suara akan didengarkan dan masuk ke dalam pikiran melalui telinga. Tulisan akan dibaca dengan mata. Dan keduanya bisa berkolaborasi dengan baik, perkataan akan bisa dijadikan tulisan, tulisan akan bisa dijadikan perkataan, disuara-kan.
 
@@ -15,7 +15,7 @@ Dari membaca dan mendengar gua belajar, apalagi dengan diciptakannya manusia yan
 
 Dengan dua hal ini pula, yang merupakan sebuah input / masukan untuk diolah dipikiran. Bisa menghasilkan suatu hal atau output yang semoga bermanfaat, bukan hanya omong kosong yang mungkin tiada artinya. Dengan dua hal itu pula, seorang manusia dibentuk menjadi tidak sama satu dengan yang lainnya.
 
-Ada pepatah arab yang memiliki arti seperti ini, 
+Ada pepatah arab yang memiliki arti seperti ini,
 
 > "Lihatlah apa yang dibicarakan, jangan lihat siapa yang berbicara."
 
