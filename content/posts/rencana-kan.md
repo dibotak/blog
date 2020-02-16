@@ -3,7 +3,7 @@ date = 2019-09-16T10:57:00Z
 title = "Rencana kan?"
 
 +++
-Merencanakan sesuatu itu mudah, menjalankannya tidak semudah itu. Mengapa bisa seperti itu? karena waktunya berbeda, apa yang dipikirkannya juga berbeda. Gua nulis ini pake nada, biar nulisnya lancar. Oke sekarang fokus, dimulai dari pertanyaan mengapa.
+Merencanakan sesuatu itu mudah, menjalankannya tidak semudah itu. Mengapa bisa seperti itu? karena waktunya berbeda, apa yang <!--more-->dipikirkannya juga berbeda. Gua nulis ini pake nada, biar nulisnya lancar. Oke sekarang fokus, dimulai dari pertanyaan mengapa.
 
 Sepertinya semuanya butuh pemaksaan, dalam arti memaksakan apa yang sudah direncanakan. Dalam waktu yang seharusnya digunakan untuk melakukan suatu hal yang sudah terencana, ada saja alasan yang membuat kita (khususnya gua sendiri) enggan untuk melakukannya. Entah itu malas, atau yaa apapun lah yang membuat kita enggan melakukannya.
 
