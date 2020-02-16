@@ -3,7 +3,7 @@ date = 2019-09-11T16:32:00Z
 title = "Ngira ngira"
 
 +++
-Baca novel, nonton film. Apa nonton novel, baca film? Aneh sekali saya ini wkwkwk. Loh kok jadi make "saya", suka suka yang nulis lah. Dengan nonton film yang dibuat berdasarkan novel, nggak mungkin bisa sesuai ekspetasi ketika udah baca novelnya. Jadi beda banget, mirip kayak tulisan yang dibaca sama beberapa orang, pasti beda beda cara bacanya, minimal beda suaranya.
+Baca novel, nonton film. Apa nonton novel, baca film? Aneh sekali saya ini wkwkwk. Loh kok jadi make "saya", suka suka yang nulis lah. <!--more-->Dengan nonton film yang dibuat berdasarkan novel, nggak mungkin bisa sesuai ekspetasi ketika udah baca novelnya. Jadi beda banget, mirip kayak tulisan yang dibaca sama beberapa orang, pasti beda beda cara bacanya, minimal beda suaranya.
 
 Nikmatnya baca novel itu gua bisa jadi berimajinasi, tentang latarnya, karakter tokohnya, atau mungkin sebab/akibatnya. Kalo dijadiin film, cara nontonnya mungkin jangan bawa bawa cerita yang ada di novelnya, karena gak mungkin 100% mirip. Intinya si jangan berekspektasi yang "wah" gitu.
 
