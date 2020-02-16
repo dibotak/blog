@@ -3,7 +3,7 @@ date = 2019-09-18T15:02:00Z
 title = "Sepucuk Cerita \"Bahagia\""
 
 +++
-Pernah suatu ketika gua sampai mencari bahagia itu ada dimana. Setelah gua pikirkan, ternyata bahagia itu dibentuk dari dalam diri lu sendiri. Karena gak mungkin ketika orang lain bilang "eh lu bahagia dong" lantas lu langsung bahagia. Hebat banget kalo lu bisa kayak gitu.
+Pernah suatu ketika gua sampai mencari bahagia itu ada dimana. Setelah gua pikirkan, ternyata bahagia itu dibentuk dari dalam diri lu sendiri. <!--more-->Karena gak mungkin ketika orang lain bilang "eh lu bahagia dong" lantas lu langsung bahagia. Hebat banget kalo lu bisa kayak gitu.
 
 Karena berasal dari diri sendiri, lu harus tau apa yang bisa membuat diri lu merasakannya (bahagia). Kalo jaman gua kecil misalnya, bermain bisa membuat gua merasa bahagia. Ketika di sekolah, lagi belajar, berharap cepat pulang atau berharap hari minggu cepat datang supaya bisa lama main. Karena bisa membuat gua senang, iya, senang melakukannya. Waktu libur dulu apalagi, belom ada youtube, jadinya nonton kartun yang _"The Movie"_ aja udah seneng banget.
 
