@@ -3,7 +3,7 @@ date = 2019-09-12T15:22:00Z
 title = "Perpusnas - Histori"
 
 +++
-Kemaren gua ke perpusnas, ikut nonton film lagi. Kayak gak ada kerjaan lain aja ya gua, tapi emang iya si, yaa begitulah. Yang bikin beda dari minggu lalu, kemaren gua gak pake kendaraan umum, naik motor ke perpusnasnya langsung.
+Kemaren gua ke perpusnas, ikut nonton film lagi. Kayak gak ada kerjaan lain aja ya gua, tapi emang iya si, yaa begitulah. Yang bikin <!--more-->beda dari minggu lalu, kemaren gua gak pake kendaraan umum, naik motor ke perpusnasnya langsung.
 
 Ketika berangkat gua niatnya lewat pondok indah, taunya pas dijalan kelewatan dan akhirnya lewat blok M. Sama kayak pekan lalu gua telat lagi, tapi gak selama pekan lalu. O iya film yang gua tonton itu ada dua, Bulan Terbelah di langit Amerika 1 dan 2, yang mana Bulan Terbelah di Langit Amerika itu udah pernah gua baca novelnya, dan merupakan novel sekuel kedua dari 99 Cahaya di Langit Eropa.
 
