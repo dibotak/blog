@@ -3,8 +3,7 @@ date = 2019-09-05T17:19:00Z
 title = "Nonton - Histori"
 
 +++
-  
-Selasa, 4 September 2019
+Selasa, 4 September 2019<!--more-->
 
 Hari ini gua berangkat ke perpusnas, mau ikut layanan nonton bareng. Film yang diputar hari ini ada 2, Cahaya dari Timur dan Medali untuk Hamdani. Tadinya mau ngendarain motor langsung ke perpusnas, tapi paginya gua berubah pikiran, jadinya pake jasa KRL. Seharusnya gua berangkat jam 8, soalnya sesi pertama dimulai jam 10.
 
