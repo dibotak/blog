@@ -3,7 +3,7 @@ date = 2019-09-24T16:20:00Z
 title = "Berangkat!"
 
 +++
-Syukur Alhamdulillah, senang rasanya bisa membuat 20 tulisan di blog ini selama sebulan. Suatu pencapaian yang rasanya belom pernah gua rasain sebelumnya. Sebelum ini gua pernah juga nulis banyak tulisan selama sebulan, tapi cuman tulisan curhat aja, sedikit pesan, dan mungkin cuma gua doang yang tau maksudnya.
+Syukur Alhamdulillah, senang rasanya bisa membuat 20 tulisan di blog ini selama sebulan. Suatu pencapaian yang rasanya belom <!--more-->pernah gua rasain sebelumnya. Sebelum ini gua pernah juga nulis banyak tulisan selama sebulan, tapi cuman tulisan curhat aja, sedikit pesan, dan mungkin cuma gua doang yang tau maksudnya.
 
 Ada perkembangan yang gua rasain selama nulis disini, setelah gua baca lagi, tulisan gua banyak motivasinya supaya gua termotivasi. Tetep aja gua males males juga, dan baru nulis disini hari ini.
 
