@@ -3,7 +3,7 @@ date = 2019-09-27T17:38:00Z
 title = "Mencoba untuk Mengurai, Mengapa Bisa Kecanduan Main Game?"
 
 +++
-Hei, gua kecanduan main game lagi loh. Awalnya nyoba install dota 2 karena dulu gak bisa dimainin, blank screen. Abis diinstall ternyata tetep gak bisa, blank screen lagi. Gua cari lah cara nyelesainnya di google, dan dapet. Akhirnya main dota 2 lagi.
+Hei, gua kecanduan main game lagi loh. Awalnya nyoba install dota 2 karena dulu gak bisa dimainin, blank screen. Abis diinstall ternyata <!--more-->tetep gak bisa, blank screen lagi. Gua cari lah cara nyelesainnya di google, dan dapet. Akhirnya main dota 2 lagi.
 
 Gua tau gua gak jago main dota, tapi yang bikin gua candu itu asik kalo menang, merasa keren gitu, padahal mah gak ada yang liat juga kan. Abis selesai main pasti ada bisikan-bisikan yang bilang "lanjut lah, terakhir nih". Kalo gak bisa mengontrol bisikan itu bisa aja ngebuat gua stress abis, kayak gua dulu pas masih SMA.
 
