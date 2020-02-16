@@ -3,7 +3,7 @@ date = 2019-12-27T13:45:00Z
 title = "Podcast AngkatAngan"
 
 +++
-Selain menulis di Blog, gua juga punya podcast. Namanya AngkatAngan.
+Selain menulis di Blog, gua juga punya podcast. Namanya AngkatAngan.<!--more-->
 
 Tempat gua berbagi informasi lewat audio.
 
