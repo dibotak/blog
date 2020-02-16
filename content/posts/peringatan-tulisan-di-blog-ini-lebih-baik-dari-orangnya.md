@@ -3,15 +3,7 @@ date = 2019-09-19T16:59:00Z
 title = "Peringatan! Tulisan di Blog ini Lebih Baik dari Orangnya."
 
 +++
-Inspirasi bisa datang kapanpun dan dimanapun, begitu juga tulisan ini. Terinspirasi dari bio instagram mas Hilman Ramadhan.
-
-| --- |
-|  |
-| Instagram @hilmanski |
-
-| --- |
-|  |
-| Twitter @hilmanski |
+Inspirasi bisa datang kapanpun dan dimanapun, begitu juga tulisan ini. Terinspirasi dari bio instagram mas Hilman Ramadhan.<!--more-->
 
 Dan juga bio twitternya. Bisa kalian lihat sendiri, disana tertulis "Feednya/Tweetnya lebih baik dari orangnya.". Ditulisan sebelumnya gua nulis hal yang mirip, atau bisa dikatakan sama karena terinspirasi dari Beliau. Kalimat tersebut menurut gua merupakan pernyataan yang bagus, karena gua pun merasa apa yang gua sampaikan gak mungkin gua kuasain banget, atau bahkan selalu melakukannya.
 
