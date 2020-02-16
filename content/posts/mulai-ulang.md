@@ -3,7 +3,7 @@ date = 2019-12-11T05:35:00Z
 title = "Mulai ulang"
 
 +++
-Terlalu fokus dengan konten, konten apa ya yang mau gua buat? Konten yang kayak gini bagus gak ya? Kontan konten kontan konten. Gak bisa apa buat ngelakuin apa yang dulu lu suka, kayak biasa aja, gak perlu terlalu mikirin.
+Terlalu fokus dengan konten, konten apa ya yang mau gua buat? Konten yang kayak gini bagus gak ya? Kontan konten kontan konten. <!--more-->Gak bisa apa buat ngelakuin apa yang dulu lu suka, kayak biasa aja, gak perlu terlalu mikirin.
 
 Pusing dengan semua kebelibetan hidup, gak tau bagaimana cara menyelesaikannya. Menganggap diri gak bisa, udah gak bisa. Padahal kesempatan itu selalu ada, tapi gak tau gimana cara menyelesaikannya, memanfaatkannya dengan baik.
 
