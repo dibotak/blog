@@ -3,7 +3,7 @@ date = 2019-11-07T12:00:00Z
 title = "Memaksimalkan Apa yang Dimiliki"
 
 +++
-Susah rasanya memaksimalkan apa yang gua punya. Pertama, jangan lupa kenalan sama yang namanya manusia. Iya, manusia itu pasti ingin lagi dan lagi. Jika punya yang sudah canggih, maka ingin yang lebih canggih.
+Susah rasanya memaksimalkan apa yang gua punya. Pertama, jangan lupa kenalan sama yang namanya manusia. Iya, manusia itu pasti <!--more-->ingin lagi dan lagi. Jika punya yang sudah canggih, maka ingin yang lebih canggih.
 
 Kemudian, bedakan antara kebutuhan dengan keinginan. Butuhnya pulpen buat nulis tugas atau pelajaran, kadang tinta belom abis udah ilang duluan, pulpen standard aja cukup sebenernya. Melihat ada pulpen yang lebih canggih, pulpen xiaomi misalnya, pengen itu, dilihat dari kebutuhannya aja udah beda. Pulpen xiaomi terlalu mahal kalo cuma dipake buat nulis tugas dan pelajaran, kecuali kalo dari pulpen itu bisa menghasilkan lebih dari harga pulpen itu.
 
