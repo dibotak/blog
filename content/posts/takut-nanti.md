@@ -4,7 +4,7 @@ tags = ["tulisan"]
 title = "Takut Nanti"
 
 +++
-Nanti belum terjadi, jangan berlarut-larut dalam takut nanti. Maksimalkan hari ini, selalu begitu. Juga dengan begitu tidak ada lagi tempat untuk takut nanti di hari ini.
+Nanti belum terjadi, jangan berlarut-larut dalam takut nanti. Maksimalkan hari ini, selalu begitu. Juga dengan begitu tidak ada lagi tempat untuk takut nanti di hari ini.<!--more-->
 
 Ambil resiko lebih, karena naik level tidak mungkin hanya dengan resiko yang stabil. Perbaharui niat, balik lagi ke pertanyaan mengapa mengambil resiko itu? Dan jangan lupakan pertolongan Allah.
 
