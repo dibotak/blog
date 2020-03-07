@@ -1,5 +1,7 @@
 +++
+category = "Tulisan"
 date = 2019-08-24T17:00:00Z
+tags = []
 title = "7 Hari Nge-Blog?"
 
 +++
