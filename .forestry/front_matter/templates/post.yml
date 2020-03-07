@@ -8,7 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: category
+- name: categories
   type: select
   default: ''
   config:
@@ -21,7 +21,7 @@ fields:
       section: 
       file: 
       path: 
-  label: Category
+  label: category
 - name: tags
   type: tag_list
   default: []
