@@ -12,6 +12,20 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Tulisan
+    - Pemrograman
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
 pages:
 - content/posts/7-hari-nge-blog.md
 - content/posts/antara-benar-dan-salah.md
