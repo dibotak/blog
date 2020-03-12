@@ -1,10 +1,11 @@
 +++
+categories = "Tulisan"
 date = 2020-03-07T17:15:00Z
-tags = ["tulisan", "tantangan"]
+tags = ["tantangan"]
 title = "Mau Belajar Menulis Esai"
 
 +++
-Selalu mau berkembang, selalu ingin lebih baik. Itu yang terus ada dipikiranku, yang mana hal itu sulit untuk dilakukan. Daripada terus diam dan mengabulkan permintaan si malas, ada baiknya untuk mulai mencoba melakukannya.
+Selalu mau berkembang, selalu ingin lebih baik. Itu yang terus ada dipikiranku, yang mana hal itu sulit untuk dilakukan.<!--more--> Daripada terus diam dan mengabulkan permintaan si malas, ada baiknya untuk mulai mencoba melakukannya.
 
 Aku ingin belajar menulis esai, dan sudah kumulai dengan mencari tahu apa itu esai. Dari apa yang aku cari, esai merupakan suatu tulisan yang isinya pendapat seseorang dibarengi dengan fakta yang ada terhadap suatu topik tertentu. Esai ada yang formal dan juga non-formal, perbedaannya ya tau lah apa (cari sendiri di search engine kesukaan anda).
 
