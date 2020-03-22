@@ -12,6 +12,10 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - content/posts/7-hari-nge-blog.md
 - content/posts/antara-benar-dan-salah.md
