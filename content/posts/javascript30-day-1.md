@@ -1,5 +1,5 @@
 +++
-categories = ["Pemrograman", "Tulisan"]
+categories = ["Pemrograman"]
 date = 2020-03-21T17:02:00Z
 tags = ["javascript"]
 title = "JavaScript 30: Perkenalan dan Hari Pertama."
