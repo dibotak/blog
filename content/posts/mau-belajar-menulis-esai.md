@@ -1,5 +1,5 @@
 +++
-categories = "Tulisan"
+categories = ["Tulisan", "Belajar"]
 date = 2020-03-07T17:15:00Z
 tags = ["tantangan"]
 title = "Mau Belajar Menulis Esai"
