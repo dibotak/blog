@@ -5,7 +5,7 @@ tags = ["javascript"]
 title = "JavaScript 30: Perkenalan dan Hari Pertama."
 
 +++
-Di waktu seperti ini, rasa bosan datang dan ingin sekali rasanya mencoba hal baru. Lagi-lagi seperti siklus yang sudah sudah. Padahal JavaScript saja belum sepenuhnya paham, buat programnya saja belum. Bosan dengan latihan logika, ingin sekali membuat sesuatu.
+Di waktu seperti ini, rasa bosan datang dan ingin sekali rasanya mencoba hal baru. Lagi-lagi seperti siklus yang sudah sudah. <!--more-->Padahal JavaScript saja belum sepenuhnya paham, buat programnya saja belum. Bosan dengan latihan logika, ingin sekali membuat sesuatu.
 
 Berusaha untuk tetap bertahan belajar JavaScript, jadinya ya mencoba hal baru. Tetap belajar. Artikel ini berisi tentang catatan teknis supaya mengerti bagaimana kode itu bisa bekerja.
 
