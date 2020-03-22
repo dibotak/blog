@@ -8,20 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: categories
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - Tulisan
-    - Pemrograman
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: category
 - name: tags
   type: tag_list
   default: []
