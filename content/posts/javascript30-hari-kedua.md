@@ -5,7 +5,7 @@ tags = ["javascript", "catatan teknis"]
 title = "JavaScript30: Hari Kedua"
 
 +++
-Di hari kedua ini, aku belajar membuat jam analog. Oiya, sebelumnya aku lupa ngasih tau kalo di JS30 ini udah disediain bahan-bahannya, jadi kita tinggal fokus aja ke belajar vanilla javascriptnya.
+Di hari kedua ini, aku belajar membuat jam analog. Oiya, sebelumnya aku lupa ngasih tau kalo di JS30 ini udah disediain bahan-bahannya, jadi kita tinggal fokus aja ke belajar vanilla javascriptnya.<!--more-->
 
 Lanjut, langsung aja ini dia kodingan yang udah jadi.
 
