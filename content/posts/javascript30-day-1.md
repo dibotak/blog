@@ -2,7 +2,7 @@
 categories = ["Pemrograman"]
 date = 2020-03-21T17:02:00Z
 tags = ["javascript"]
-title = "JavaScript 30: Perkenalan dan Hari Pertama."
+title = "JavaScript30: Perkenalan dan Hari Pertama."
 
 +++
 Di waktu seperti ini, rasa bosan datang dan ingin sekali rasanya mencoba hal baru. Lagi-lagi seperti siklus yang sudah sudah. <!--more-->Padahal JavaScript saja belum sepenuhnya paham, buat programnya saja belum. Bosan dengan latihan logika, ingin sekali membuat sesuatu.
@@ -46,9 +46,9 @@ Agar web mengetahui apa yang kita tekan pada keyboard, kita menggunakan method `
 
 Demikian penjelasan dari apa yang telah aku pelajari di hari pertama JavaScript30. Untuk teman-teman yang ingin mengetahui penjelasan lengkap dari program ini, bisa kunjungi [javascript30.com](javascript30.com "JS30 by WesBos").
 
-sumber:
+Referensi:
 
-* [MDN EventTarget DOM](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget "EventTarget DOM") 
+* [MDN EventTarget DOM](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget "EventTarget DOM")
 * [MDN EventTarget.addEventListener method](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener "addEventListener on MDN")
 * [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events "Event reference")
 * [MDN Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector "document.querySelector()")
