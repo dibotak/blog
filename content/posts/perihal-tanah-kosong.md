@@ -1,9 +1,11 @@
 +++
+categories = []
 date = 2019-09-15T09:35:00Z
+tags = []
 title = "Perihal Tanah Kosong"
 
 +++
-Syukur alhamdulillah gua udah berhasil 7 hari berturut-turut menulis di blog ini, dan kemarin gak nulis di blog karena lagi-lagi akibat <!--more-->menunda dan akhirnya sudah malam (mungkin malas).
+Syukur alhamdulillah gua udah berhasil 7 hari berturut-turut menulis di blog ini, dan kemarin gak nulis di blog karena lagi-lagi akibat menunda dan akhirnya sudah malam (mungkin malas).<!--more-->
 
 Baik, yang akan gua bahas kali ini tentang menunggu. Kenapa harus menunggu? Bisa jadi ada banyak alasannya, tapi dibalik itu semua sebenarnya ada sesuatu yang bisa kita ambil. Contoh kecilnya adalah kita jadi bisa lebih menghargai waktu.
 
