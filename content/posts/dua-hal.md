@@ -1,9 +1,11 @@
 +++
+categories = []
 date = 2020-01-30T14:44:00Z
+tags = []
 title = "Dua Hal"
 
 +++
-Dua hal yang mungkin gak akan terpisahkan dalam proses mencari ilmu, menambah pengetahuan. Tak lupa juga dengan dua hal <!--more-->tersebut bisa menghasilkan kebaikan. Dengan majunya teknologi seperti sekarang, yang dibutuhkan adalah kepandaian dalam memilih dan memilah informasi. Yang kebanyakan menggunakan cara ini, mendengar dan membaca.
+Dua hal yang mungkin gak akan terpisahkan dalam proses mencari ilmu, menambah pengetahuan. Tak lupa juga dengan dua hal tersebut bisa menghasilkan kebaikan. Dengan majunya teknologi seperti sekarang, yang dibutuhkan adalah kepandaian dalam memilih dan memilah informasi. Yang kebanyakan menggunakan cara ini, mendengar dan membaca.<!--more-->
 
 Mendengar dan membaca merupakan sebuah proses input, seperti menelan air, atau memakan makanan. Suara akan didengarkan dan masuk ke dalam pikiran melalui telinga. Tulisan akan dibaca dengan mata. Dan keduanya bisa berkolaborasi dengan baik, perkataan akan bisa dijadikan tulisan, tulisan akan bisa dijadikan perkataan, disuara-kan.
 
