@@ -5,7 +5,7 @@ tags = ["bingung", "cerita"]
 title = "Kebingungan"
 
 +++
-Aku hanya ingin bercerita, tentang hari ini dan hari kemarin. Saat dimana tidak tahu lagi mau berbuat apa, atau lebih tepatnya tidak mau lagi mengerjakan sesuatu yang berguna, walaupun bukan sekarang.
+Aku hanya ingin bercerita, tentang hari ini dan hari kemarin. Saat dimana tidak tahu lagi mau berbuat apa, atau lebih tepatnya tidak mau lagi mengerjakan sesuatu yang berguna, walaupun bukan sekarang.<!--more-->
 
 Aku pernah bercerita, tentang bagaimana kebiasaan buruk itu bisa ada, bagaimana kita sebenarnya bisa mengerjakan sesuatu yang lebih penting dibanding menghabiskan waktu untuk kesenangan sesaat.
 
@@ -21,7 +21,7 @@ Jadilah aku bermain dota2, karena kebetulan dota2 masih terinstall di laptopku. 
 
 Permasalahannya bukan di dota2 aja, karena akupun mendownload game mobile legends. Dan candu datang lagi, merasa dengan bermain aku bisa mendapat kesenangan. Kemudian yang aku pernah bilang terbukti, rasa senang itu hanya sesaat.
 
-Sekarang aku bingung. Ya, sangat bingung. Tidak ada semangat untuk mengerjakan kewajiban, sudah muak dengan keputusanku menghabiskan waktu untuk bermain. Sangat mudah waktu dulu aku bilang, 
+Sekarang aku bingung. Ya, sangat bingung. Tidak ada semangat untuk mengerjakan kewajiban, sudah muak dengan keputusanku menghabiskan waktu untuk bermain. Sangat mudah waktu dulu aku bilang,
 
 > lebih baik mengerjakan sesuatu yang bermanfaat
 
