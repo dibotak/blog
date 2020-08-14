@@ -5,7 +5,7 @@ tags = ["javascript"]
 title = "JavaScript30: Hari Ketiga"
 
 +++
-Pembahasan di hari ini adalah CSS variabel. Jadi, sebenernya CSS itu punya variabel, yang mana sangat memudahkan kita untuk mengganti nilai dari suatu properti, sama seperti variabel pada umumnya.
+Pembahasan di hari ini adalah CSS variabel. Jadi, sebenernya CSS itu punya variabel, yang mana sangat memudahkan kita untuk mengganti nilai dari suatu properti, sama seperti variabel pada umumnya.<!--more-->
 
 Dengan bantuan javascript, kita bisa mengganti variabel tersebut. Sehingga tidak perlu merubah satu per satu properti pada masing-masing selektor. Karena nilai dari properti itu sudah diatur oleh CSS variabelnya.
 
@@ -25,7 +25,7 @@ Berikut kodingan yang udah jadi.
 
 **Algoritma**
 
-Pada template yang telah disediakan, elemen `form` memiliki kelas `control`, sehingga kita membuat variabel baru untuk mengambil setiap elemen `input`. `document.querySelectorAll()` akan mengembalikan sebuah _NodeList,_ untuk mengetahui elemen mana yang berubah, digunakan method `addEventListener()` yang dimasukkan pada method `forEach`. 
+Pada template yang telah disediakan, elemen `form` memiliki kelas `control`, sehingga kita membuat variabel baru untuk mengambil setiap elemen `input`. `document.querySelectorAll()` akan mengembalikan sebuah _NodeList,_ untuk mengetahui elemen mana yang berubah, digunakan method `addEventListener()` yang dimasukkan pada method `forEach`.
 
 Parameter tipe yang digunakan untuk method `addEventListener` ada dua, `change` untuk mengetahui nilai setelah berubah, `mousemove` untuk mengetahui secara langsung nilai yang berubah ketika input range digeser.
 
@@ -37,6 +37,6 @@ Juga untuk mengetahui objek apa yang dimiliki sebuah elemen, bisa dilihat di con
 
 Terimakasih.
 
-Referensi: 
+Referensi:
 
 Seperti biasa, [Mozilla Developer Network](https://developer.mozilla.org/en-US/ "Dokumentasi")
