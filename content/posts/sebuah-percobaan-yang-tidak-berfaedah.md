@@ -5,7 +5,7 @@ tags = ["javascript"]
 title = "Sebuah Percobaan yang Tidak Berfaedah"
 
 +++
-Jadi pada malam ini aku sedang membuat suatu aplikasi, tapi ternyata muncul sebuah bug dan aku sedang malas untuk menanganinya. Jadilah tercetus sebuah keisengan, yaitu membuat fungsi yang mengembalikan fungsi, berikut kodenya:
+Jadi pada malam ini aku sedang membuat suatu aplikasi, tapi ternyata muncul sebuah bug dan aku sedang malas untuk menanganinya. Jadilah tercetus sebuah keisengan, yaitu membuat fungsi yang mengembalikan fungsi, berikut kodenya:<!--more-->
 
     function pertama(param) {
       console.log(`nilai pertama: ${param}`);
@@ -40,6 +40,5 @@ Jadi pada malam ini aku sedang membuat suatu aplikasi, tapi ternyata muncul sebu
     }
     
     console.log(pertama(1)(2)(3)(4)(5)(6)(7)(8)(9)(10));
-    
 
 Sangat tidak berfaedah bukan? Tapi dengan aku membuat hal ini terjadi, ada kesenangan yang mungkin hanya aku saja yang paham. Sekian tulisan penghibur malam ini, sampai jumpa di tulisan lainnya!
