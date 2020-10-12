@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Pemrograman"]
 date = 2020-10-10T15:12:00Z
 tags = ["javascript"]
 title = "Sebuah Percobaan yang Tidak Berfaedah"
