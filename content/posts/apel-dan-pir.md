@@ -1,9 +1,11 @@
 +++
+categories = []
 date = 2019-10-26T13:44:00Z
+tags = []
 title = "Apel dan Pir"
 
 +++
-Buah apel dan buah pir. Keduanya memiliki kemiripan, tapi tidak sama. Berbicara mengenai kedua buah tersebut, mengingatkan gua<!--more--> tentang betapa canggihnya alam, canggihnya tumbuhan.
+Buah apel dan buah pir. Keduanya memiliki kemiripan, tapi tidak sama. Berbicara mengenai kedua buah tersebut, mengingatkan gua tentang betapa canggihnya alam, canggihnya tumbuhan.<!--more-->
 
 Buah apel dan buah pir tidak akan tertukar buahnya walaupun pohonnya berdekatan, tanah yang ditempatinya sama, pupuk yang digunakan sama, bahkan cara menyiramnya juga sama. Mereka tidak akan pernah tertukar. Padahal kalo dilihat secara umum, tumbuhan itu gak punya otak, gak kayak manusia dan hewan.
 
