@@ -7,6 +7,8 @@ title = "Sebuah Percobaan yang Tidak Berfaedah"
 +++
 Jadi pada malam ini aku sedang membuat suatu aplikasi, tapi ternyata muncul sebuah bug dan aku sedang malas untuk menanganinya. Jadilah tercetus sebuah keisengan, yaitu membuat fungsi yang mengembalikan fungsi, berikut kodenya:<!--more-->
 
+(sepertinya ada bug, functionnya tidak termasuk kedalam codeblock)
+
     function pertama(param) {
       console.log(`nilai pertama: ${param}`);
       return function (param2) {
