@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2020-12-21T14:37:00Z
-draft = true
 tags = []
 title = "Menyadari hal kecil, sebuah makanan ringan bernama beng-beng"
 
