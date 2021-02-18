@@ -5,7 +5,7 @@ tags = []
 title = "Belum Direvisi"
 
 +++
-Segitu pentingnya nulis apa yang menarik untuk dipikirkan dan didiskusikan. Soalnya yang namanya manusia pasti ada lupanya, seperti setiap hariku yang kebanyakan mikir.
+Segitu pentingnya nulis apa yang menarik untuk dipikirkan dan didiskusikan. Soalnya yang namanya manusia pasti ada lupanya, seperti setiap hariku yang kebanyakan mikir.<!--more-->
 
 Menulisnya pun tidak secara otomatis langsung bisa ingat apa tujuannya, tujuan dari aku menulis beberapa kata yang menggambarkan pikiranku saat aku menulisnya.
 
