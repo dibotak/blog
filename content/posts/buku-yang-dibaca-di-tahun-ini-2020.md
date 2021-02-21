@@ -2,7 +2,7 @@
 categories = []
 date = 2020-12-27T17:54:00Z
 tags = ["buku", "tulisan"]
-title = "Buku yang Dibaca di Tahun ini (2020)"
+title = "Buku yang Dibaca pada Tahun ini (2020)"
 
 +++
 Seperti tahun-tahun sebelumnya, tahun ini juga aku merasakan waktu cepat sekali berlalu.<!--more-->
