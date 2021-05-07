@@ -2,7 +2,7 @@
 title: Hadiah pada Bulan Penuh Berkah
 date: 2021-05-07T16:13:12.425Z
 ---
-Pada bulan Ramadhan, masjid At-Taqwa di dekat rumahku selalu mengadakan shalat tarawih berjamaah, tepat setelah shalat Isya. Biasanya akan ada kultum setelah tarawih, sebelum shalat witir. Aku ingin membagikan apa yang telah aku dengar, yang semoga bisa menambah iman.
+Pada bulan Ramadhan, masjid At-Taqwa di dekat rumahku selalu mengadakan shalat tarawih berjamaah, tepat setelah shalat Isya. Biasanya akan ada kultum setelah tarawih, sebelum shalat witir. Aku ingin membagikan apa yang telah aku dengar, yang semoga bisa menambah iman.<!--more-->
 
 Dan yang aku tulis hanyalah seingatku, jadi mohon maaf kalo ada salah.
 
