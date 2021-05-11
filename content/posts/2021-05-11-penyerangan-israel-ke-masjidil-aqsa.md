@@ -70,11 +70,9 @@ Ada 3 hal yang akan terjadi sekarang.
 
 Kita semua tahu kalau Israel itu TIDAK senang ketika orang Palestina memberontak. Jadi aku pikir (@subhi.taha) banyak orang Palestina yang bersiap secara mental, untuk sesuatu yang sangat "kompleks" dalam beberapa hari kedepan.
 
-
-
 Sekian terjemahan bebas dariku, mohon maaf kalau ada kesalahan penulisan, semoga apa yang kutulis disini mudah dimengerti. Supaya banyak orang yang tahu apa yang terjadi di Palestina sana.
 
-Mari kita bantu saudara-saudara kita di Palestina, [lewat sini (ACT - Rebut Kembali Palestina)](https://indonesiadermawan.id/RebutKembaliPalestina)
+Mari kita bantu saudara-saudara kita di Palestina dengan selalu mendoakannya, juga jika ada rezeki bisa sisihkan [lewat sini (ACT - Rebut Kembali Palestina)](https://indonesiadermawan.id/RebutKembaliPalestina)
 
 Referensi:
 
