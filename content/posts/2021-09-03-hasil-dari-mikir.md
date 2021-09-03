@@ -2,7 +2,7 @@
 title: Hasil dari Mikir
 date: 2021-09-04T00:00:52.026Z
 ---
-Sedang malas menulis. Itulah salah satu kalimat yang ada pada catatanku yang berjudul "mikir". Jadi, karena aku udah susah banget buat nulis, akhirnya bikin catatan yang dari catatan itu akan kujadikan sebuah tulisan.
+Sedang malas menulis. Itulah salah satu kalimat yang ada pada catatanku yang berjudul "mikir". Jadi, karena aku udah susah banget buat nulis, akhirnya bikin catatan yang dari catatan itu akan kujadikan sebuah tulisan.<!--more-->
 
 Malas menulis, sebenernya kalimat itu benar, tapi ada sebabnya. Aku sudah tidak mengalokasikan / menyempatkan menulis dalam sehari-hari. Tidak seperti saat tidak kuliah, atau saat nganggur. Dimana waktu yang kosong sering aku gunakan untuk menulis.
 
