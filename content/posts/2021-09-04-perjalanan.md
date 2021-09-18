@@ -2,7 +2,7 @@
 title: Perjalanan
 date: 2021-09-04T05:26:58.452Z
 ---
-Masa kecil adalah masa yang paling menyenangkan, tidak ada beban sama sekali. Pada masa itu gua punya banyak impian, mimpi-mimpi yang sebenarnya gua nggak pernah tau bagaimana cara mewujudkannya. Mimpi yang sebenarnya nggak gua tau manfaatnya, maupun ketidak-bermanfaatannya. Namun, gua tau kalau dimasa tersebut gua ngerasa bebas, kehidupan gua mengalir seperti air sungai yang berada di hulu.
+Masa kecil adalah masa yang paling menyenangkan, tidak ada beban sama sekali. Pada masa itu gua punya banyak impian, mimpi-mimpi yang sebenarnya gua nggak pernah tau bagaimana cara mewujudkannya. Mimpi yang sebenarnya nggak gua tau manfaatnya, maupun ketidak-bermanfaatannya. Namun, gua tau kalau dimasa tersebut gua ngerasa bebas, kehidupan gua mengalir seperti air sungai yang berada di hulu.<!--more-->
 
 Waktu berjalan dengan sangat perlahan, sepertinya kita mengetahui apa yang harus kita lakukan setelah ini, melakukan itu, dan lainnya. Semuanya mudah kita ingat di dalam memori, jadwal pun tidak perlu ditulis karena telah tersimpan dengan baik. Masa kecil, ya masa kecil, penuh dengan kenangan indah.
 
