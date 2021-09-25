@@ -4,7 +4,7 @@ date: 2021-09-25T06:27:02.694Z
 ---
 ### Aku kembali lagi
 
-Kali ini dengan perasaan yang sudah banyak berubah. lebih dari setengah tahun aku tidak menulis di blog ini, karena ego ku yang menganggap aku bisa. Namun ekspetasi sering kali tidak sesuai dengan realita.
+Kali ini dengan perasaan yang sudah banyak berubah. lebih dari setengah tahun aku tidak menulis di blog ini, karena ego ku yang menganggap aku bisa. Namun ekspetasi sering kali tidak sesuai dengan realita.<!--more-->
 
 Semenjak tulisan terakhir kemarin (jauh hari yang lalu - di blog ini). Aku tetap menulis di buku catatanku, tapi tidak kutulis di sini. Sebenarnya ada banyak cerita yang bisa kuceritakan disini, petualanganku membrantas kemalasan yang gagal, gagal total. Aku yang sekarang bukan yang dulu lagi, Tapi ada yang tidak berubah, malah bertambah. Malas.
 
