@@ -1,5 +1,5 @@
 ---
-title: Cerita Setelah Hampir dan Sudah Lulus
+title: Cerita Sebelum dan Sesudah Lulus SMA
 date: 2021-09-25T06:27:02.694Z
 ---
 ### Aku kembali lagi
