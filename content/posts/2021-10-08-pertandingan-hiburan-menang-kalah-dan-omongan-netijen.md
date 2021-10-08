@@ -2,7 +2,7 @@
 title: Pertandingan, Hiburan, Menang Kalah, dan Omongan Netijen
 date: 2021-10-08T10:09:25.454Z
 ---
-Pengen ngomentarin kebiasaan netijen yang sering terlihat menjatuhkan tim (terutama *esports*) yang sedang kalah.
+Pengen ngomentarin kebiasaan netijen yang sering terlihat menjatuhkan tim (terutama *esports*) yang sedang kalah.<!--more-->
 
 Kira-kira udah setahun terakhir gua ngikutin skena *esports* Dota 2, disini tempat biasanya gua mencari hiburan, karena bermain Dota 2 aja sering kalah, mending nonton ajalah. Game yang menginisiasi hadiah esports satu juta dollar pertama di dunia.
 
