@@ -2,7 +2,7 @@
 title: Cara Kerja Otak
 date: 2021-10-09T13:18:57.195Z
 ---
-Connecting the dots. Berawal dari pertanyaan "Apakah ingatan dalam otak bisa benar-benar menghilang?", Seperti data yang ada pada harddrive. Aku mencari tahu jawabannya.
+Connecting the dots. Berawal dari pertanyaan "Apakah ingatan dalam otak bisa benar-benar menghilang?", Seperti data yang ada pada harddrive. Aku mencari tahu jawabannya.<!--more-->
 
 Komputer menyimpan memori karena ada listrik. Dengan cara menulis dan membaca data yang berbentuk bilangan biner, 0 dan 1. Sedangkan manusia, cara kerja dalam menyimpan memori apakah sama? berapakah ingatan yang dapat disimpan oleh otak?
 
