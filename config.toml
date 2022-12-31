@@ -1,7 +1,7 @@
 baseURL = "https://adibfaqih.id"
 title = "DiBotak"
 theme = "hugo-notepadium"
-copyright = "©2020"
+copyright = "©2023"
 
 pagination = 2
 
@@ -27,7 +27,7 @@ unsafe = true  # enable raw HTML in Markdown
 style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
 logo = "https://adibfaqih.id/static/icons/myicon.png"  # if you have a logo png
-slogan = "Catatan Petualangan"
+slogan = "Coba ditulis"
 license = ""  # CC License
 
 [params.comments]
