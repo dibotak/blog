@@ -1,7 +1,7 @@
 baseURL = "https://adibfaqih.id"
 title = "DiBotak"
 theme = "hugo-notepadium"
-copyright = "©2023"
+copyright = "©2024"
 
 pagination = 2
 
