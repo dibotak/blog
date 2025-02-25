@@ -2,7 +2,7 @@
 title: Menghilang dalam Lari
 date: 2025-02-25T02:08:37.514Z
 ---
-Ketika Aku berlari, aku memasuki lorong waktu. Kadang ke masa lalu, mengingat perjalanan yang sudah dilewati, kadang ke masa sekarang, mencerna apapun yang dilihat dan didengar, kadang ke masa depan, bertanya-tanya apa yang akan terjadi berikutnya. Dan kalau ingat, mempertanyakan ke diri sendiri, apa yang sedang aku pikirkan? Apa yang sedang aku diskusikan dengan diriku sendiri?
+Ketika Aku berlari, aku memasuki lorong waktu. Kadang ke masa lalu, mengingat perjalanan yang sudah dilewati, kadang ke masa sekarang, mencerna apapun yang dilihat dan didengar, kadang ke masa depan, bertanya-tanya apa yang akan terjadi berikutnya. Dan kalau ingat, mempertanyakan ke diri sendiri, apa yang sedang aku pikirkan? Apa yang sedang aku diskusikan dengan diriku sendiri?<!--more-->
 
 Semua berawal dari keinginan untuk menjaga kesehatan, karena kebanyakan duduk main game atau menghabiskan waktu di dunia maya yang ketika aku ingat-ingat sekarang, waktu itu aku berpikir yang penting menyempatkan waktu untuk bergerak, sebuah alasan yang sangat sederhana. Sesekali dalam beberapa bulan, lama kelamaan intensitasnya meningkat, sebulan sekali, sebulan dua kali, hingga akhirnya sekarang bisa memaksa diri sampai minimal sepekan sekali.
 
